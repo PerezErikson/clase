@@ -23,3 +23,4 @@ Aplicación práctica: Útil para estilizar elementos específicos según sus at
 # Selector de pseudo-clase (Pseudo-class Selector):
 Descripción: Selecciona elementos en un estado específico (por ejemplo, :hover para cuando el cursor está sobre el elemento).
 Ejemplo de código: a:hover selecciona enlaces cuando el cursor está sobre ellos.
+! [Capta](captura.png)
